@@ -1,1 +1,1 @@
-"B1 change" 
+A1 change + B1 change
