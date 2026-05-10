@@ -1,1 +1,1 @@
-"Line from B" 
+Line from B + Line from A
