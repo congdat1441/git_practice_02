@@ -1,1 +1,1 @@
-Line from B + Line from A
+"code from main" 
