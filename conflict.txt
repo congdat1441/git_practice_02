@@ -1,1 +1,1 @@
-"Code from A v2" 
+Code from A v2 + Code from B v1
